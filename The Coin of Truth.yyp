@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"blackScreenObj","path":"objects/blackScreenObj/blackScreenObj.yy",},},
+    {"id":{"name":"GavinHouseBackground","path":"sprites/GavinHouseBackground/GavinHouseBackground.yy",},},
     {"id":{"name":"eyeOpen","path":"sprites/eyeOpen/eyeOpen.yy",},},
     {"id":{"name":"GAVIN","path":"sprites/GAVIN/GAVIN.yy",},},
     {"id":{"name":"wakingUpSequence","path":"rooms/wakingUpSequence/wakingUpSequence.yy",},},
