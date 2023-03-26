@@ -9,6 +9,7 @@
     {"name":"startButtonSprite","order":9,"path":"sprites/startButtonSprite/startButtonSprite.yy",},
     {"name":"testHouseBackground","order":13,"path":"sprites/testHouseBackground/testHouseBackground.yy",},
     {"name":"eyeOpenObj","order":1,"path":"objects/eyeOpenObj/eyeOpenObj.yy",},
+    {"name":"test","order":19,"path":"sprites/test/test.yy",},
     {"name":"blackScreen","order":4,"path":"sprites/blackScreen/blackScreen.yy",},
     {"name":"instanceCreater","order":4,"path":"objects/instanceCreater/instanceCreater.yy",},
     {"name":"GAVIN_Obj","order":5,"path":"objects/GAVIN_Obj/GAVIN_Obj.yy",},

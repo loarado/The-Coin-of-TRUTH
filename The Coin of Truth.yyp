@@ -43,6 +43,7 @@
     {"id":{"name":"startButtonSprite","path":"sprites/startButtonSprite/startButtonSprite.yy",},},
     {"id":{"name":"testHouseBackground","path":"sprites/testHouseBackground/testHouseBackground.yy",},},
     {"id":{"name":"eyeOpenObj","path":"objects/eyeOpenObj/eyeOpenObj.yy",},},
+    {"id":{"name":"test","path":"sprites/test/test.yy",},},
     {"id":{"name":"blackScreen","path":"sprites/blackScreen/blackScreen.yy",},},
     {"id":{"name":"instanceCreater","path":"objects/instanceCreater/instanceCreater.yy",},},
     {"id":{"name":"playScreen1","path":"rooms/playScreen1/playScreen1.yy",},},
