@@ -3,6 +3,7 @@
   "ResourceOrderSettings": [
     {"name":"GavinHouseBackground","order":18,"path":"sprites/GavinHouseBackground/GavinHouseBackground.yy",},
     {"name":"eyeOpen","order":6,"path":"sprites/eyeOpen/eyeOpen.yy",},
+    {"name":"PENIS_CUM","order":22,"path":"sprites/PENIS_CUM/PENIS_CUM.yy",},
     {"name":"GAVIN","order":11,"path":"sprites/GAVIN/GAVIN.yy",},
     {"name":"wakingUpSequence","order":2,"path":"rooms/wakingUpSequence/wakingUpSequence.yy",},
     {"name":"gavinBackwardsLeft","order":17,"path":"sprites/gavinBackwardsLeft/gavinBackwardsLeft.yy",},
