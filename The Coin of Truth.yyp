@@ -67,6 +67,7 @@
     {"id":{"name":"Title","path":"sprites/Title/Title.yy",},},
     {"id":{"name":"gavinBackwardsRight","path":"sprites/gavinBackwardsRight/gavinBackwardsRight.yy",},},
     {"id":{"name":"GavinText1","path":"sprites/GavinText1/GavinText1.yy",},},
+    {"id":{"name":"Press_Start","path":"sounds/Press_Start/Press_Start.yy",},},
     {"id":{"name":"DEVIL666","path":"sprites/DEVIL666/DEVIL666.yy",},},
     {"id":{"name":"movableObj","path":"objects/movableObj/movableObj.yy",},},
     {"id":{"name":"flowerBackground","path":"sprites/flowerBackground/flowerBackground.yy",},},
